@@ -26,7 +26,7 @@ Instruction encoding:
 |   param1  |   param2  |         opcode        | src addr  | dest addr | attributes|
 +-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
       (a)        (b)               (c)               (d)         (e)         (f) 
-
+    
 
 (a)(b) These bits are for direct register addressing mode 
         the bits of the corresponding parameter will be set to;
